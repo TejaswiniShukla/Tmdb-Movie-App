@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,body{
+  width: 100%;
+  height: 100%;
+}
+.main{
+  width: 100wh;
+  height: 100vh;
+  
+   
+  font-family: ogg;
+  font-weight: bolder;
+}
+.pagination{
+  width: 100%;
+  height: 40px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
